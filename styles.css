@@ -9,3 +9,20 @@ h1, h2 {
 header {
   border-bottom: 3px dashed purple;
 }
+
+.class-list {
+  list-style-type: square;
+}
+
+.item {
+  border: 1px double cadetblue;
+}
+
+.even {
+  background-color: grey;
+}
+
+.odd {
+  background-color: black;
+  color: white;
+}
