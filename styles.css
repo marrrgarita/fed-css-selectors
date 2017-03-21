@@ -5,3 +5,7 @@ html {
 h1, h2 {
   font-family: 'Ranga', cursive;
 }
+
+header {
+  border-bottom: 3px dashed purple;
+}
